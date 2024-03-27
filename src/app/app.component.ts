@@ -1,10 +1,10 @@
+import { reset } from './../../node_modules/@colors/colors/index.d';
 import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'bases';
+ 
 }
